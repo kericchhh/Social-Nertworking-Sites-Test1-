@@ -20,4 +20,4 @@ Top 2 social networks site:
 1. Facebook
 ![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png)
 2. Youtube
-![Youtube](/IMG folder/Youtube_logo.png)
+![Youtube](/Youtube_logo.png)
