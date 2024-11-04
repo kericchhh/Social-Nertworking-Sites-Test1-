@@ -16,10 +16,11 @@ The social network is a theoretical construct useful in the social sciences to s
 |YouTube | many counties|2.70 billion |	73000000000|
 |WhatsApp| many countries|	2.40 billion|	3900000000|
 
-Top 2 social networks site:
+
+Top 3 social networks site:
 1. Facebook
 ![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png)
 2. Youtube
-![Youtube](/Youtube_logo.png)
-3. Whatsapp
-![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png)
+![Youtube](/IMG folder/Youtube_logo.png)
+2. Whatsapp
+![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png)
