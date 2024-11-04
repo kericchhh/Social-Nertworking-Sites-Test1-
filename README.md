@@ -21,6 +21,6 @@ Top 3 social networks site:
 1. Facebook
 ![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png)
 2. Youtube
-![Youtube](IMG folder\Youtube_logo.png)
+![Youtube](IMG folder/Youtube_logo.png)
 2. Whatsapp
 ![Whatsapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png)
