@@ -1,9 +1,8 @@
 # Social-Nertworking-Sites-Test1-
 1. Karim Kerimbekov 4,5
 2. Volha Hryshkevich 1,6
-3. 
-# Social Networks sites
 
+# Social Networks sites
 
 A social network is a social structure made up of a set of social actors (such as individuals or organizations), sets of dyadic ties, and other social interactions between actors. The social network perspective provides a set of methods for analyzing the structure of whole social entities as well as a variety of theories explaining the patterns observed in these structures.[1] The study of these structures uses social network analysis to identify local and global patterns, locate influential entities, and examine network dynamics.
 
@@ -16,8 +15,6 @@ The social network is a theoretical construct useful in the social sciences to s
 |Facebook| Many countrys| 	3.06 billion|13100000000|
 |YouTube | many counties|2.70 billion |	73000000000|
 |WhatsApp| many countries|	2.40 billion|	3900000000|
-|Instagram| many countries|	2.35 billion|6700000000|
-|TikTok| many countries|	1.67 billion|2700000000|
 
 Top 2 social networks site:
 1. Facebook
