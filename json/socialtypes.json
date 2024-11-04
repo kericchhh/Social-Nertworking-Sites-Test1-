@@ -1,0 +1,84 @@
+[
+    {
+        "Name": "Instagram" , 
+        "Headquarters" : "California" ,
+        "Founded" : 2010 ,
+        "Employees" : 20.100  , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Stories",
+            "Reels",
+            "Direct Messages"
+        ],
+        "Kid friendly" : false , 
+        "Mobile portable" : true
+    },
+    {
+        "Name": "Youtube" , 
+        "Headquarters" : "California" ,
+        "Founded" : 2005 ,
+        "Employees" : 7.713  , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Videos",
+            "Shorts",
+            "Live Streams"
+        ],
+        "Kid friendly" : true , 
+        "Mobile portable" : true
+    },
+    {
+        "Name": "Facebook" , 
+        "Headquarters" : "California" ,
+        "Founded" : 2004 ,
+        "Employees" : 67.713  , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Stories",
+            "Marketplace",
+            "Direct Messages"
+        ],
+        "Kid friendly" : false , 
+        "Mobile portable" : true
+    },
+    {
+        "Name": "Whatsapp" , 
+        "Headquarters" : "California" ,
+        "Founded" : 2009 ,
+        "Employees" : 55.0 , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Direct Messages"
+        ],
+        "Kid friendly" : true , 
+        "Mobile portable" : true
+    },
+    {
+        "Name": "TikTok" , 
+        "Headquarters" : "Singapore" ,
+        "Founded" : 2016 ,
+        "Employees" : 38.578  , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Stories",
+            "Reels",
+            "Direct Messages",
+            "Live Streams"
+        ],
+        "Kid friendly" : true , 
+        "Mobile portable" : true
+    },
+    {
+        "Name": "Snapchat" , 
+        "Headquarters" : "California" ,
+        "Founded" : 2011 ,
+        "Employees" : 5.289  , 
+        "Is popular" : true , 
+        "Key features" : [
+            "Stories",
+            "Direct Messages"
+        ],
+        "Kid friendly" : false , 
+        "Mobile portable" : true
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+       "Name" : "Social Media" , 
+       "Users": "5.17 billion",
+       "Became popular in" : 2010 ,
+       "Types" : [
+        "Messenger",
+        "Video portal",
+        "Forums"
+       ],
+       "Popuular" : true ,
+       "Time wasted daily in hours" : 2.30 ,
+       "Kid friendly" : "Depends",
+       "Is a necessity" : false
+    }
+]
